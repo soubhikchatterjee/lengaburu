@@ -1,0 +1,8 @@
+.flex-column {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 20rem;
+}
